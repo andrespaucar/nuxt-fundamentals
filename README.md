@@ -1,5 +1,5 @@
 # LINK
-    https://nuxt-fundamentalspe.herokuapp.com/
+(https://nuxt-fundamentalspe.herokuapp.com/)
     
 # nuxt-fundamentals
 
