@@ -1,3 +1,6 @@
+# LINK
+    https://nuxt-fundamentalspe.herokuapp.com/
+    
 # nuxt-fundamentals
 
 > My impeccable Nuxt.js project

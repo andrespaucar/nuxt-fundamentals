@@ -1,6 +1,13 @@
 
 export default {
   mode: 'universal',
+  generate:{
+    routes:[
+      'posts/nuxt',
+      'posts/how',
+      'posts/balut'
+    ]
+  },
   /*
   ** Headers of the page
   */
